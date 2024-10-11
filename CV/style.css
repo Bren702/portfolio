@@ -1,0 +1,42 @@
+body{
+    border: 10px solid navy;
+    padding: 10px;
+}
+
+#intro{
+    text-align: center;
+}
+
+#football{
+    background-color: blue;
+    color: white;
+    border: 5px solid cyan;
+    margin: 5px;
+    padding: 5px;
+}
+
+#foot{
+    color: violet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#jv{
+    background-color: springgreen;
+    color: black;
+    border: 5px solid forestgreen;
+    margin: 5px;
+    padding: 5px;
+}
+
+#jeux{
+    color: darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#social{
+    text-align: center;
+}
+
+.inter{
+    border-bottom: 5px double crimson;
+}
